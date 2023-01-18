@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Copyright (c) .... T\. Clément.*" />
+    <option name="keyword" value="Licensed under the MIT License" />
+    <option name="notice" value="Licensed under the MIT License&#10;&#10;Copyright (c) &amp;#36;today.year T. Clément (@tclement0922) &lt;dev.tclement0922@gmail.com&gt;" />
+    <option name="myName" value="MIT" />
+  </copyright>
+</component>

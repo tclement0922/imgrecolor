@@ -1,0 +1,8 @@
+*.hprof
+/build/
+/.gradle/
+/src/nativeInterop/cinterop/lodepng/lodepng.c
+/src/nativeInterop/cinterop/lodepng/lodepng.h
+/src/nativeInterop/cinterop/lodepng/build/
+/src/nativeInterop/cinterop/lodepng.def
+/src/nativeInterop/cinterop/stbi.def

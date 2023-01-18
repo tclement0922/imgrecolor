@@ -1,0 +1,6 @@
+[submodule "lodepng"]
+	path = src/nativeInterop/cinterop/lodepng/upstream
+	url = https://github.com/lvandeve/lodepng
+[submodule "stbi"]
+	path = src/nativeInterop/cinterop/stb
+	url = https://github.com/nothings/stb

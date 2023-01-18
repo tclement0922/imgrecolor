@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Algorithms" pattern="src[imgrecolor.commonMain]:dev.tclement.imgrecolor.algorithm..*||test[imgrecolor.commonTest]:dev.tclement.imgrecolor.algorithm..*" />
+</component>
